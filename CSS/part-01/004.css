@@ -1,0 +1,10 @@
+The CSS element Selector
+
+
+Here, all <p> elements on the page will be center-aligned, with a red text color: 
+
+p {
+  text-align: center;
+  color: red;
+}
+
